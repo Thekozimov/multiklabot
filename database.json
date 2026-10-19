@@ -1,0 +1,83 @@
+{
+  "movies": {
+    "5": {
+      "title": "Po'lat Qushlar 1",
+      "category": "Po'lat Qushlar",
+      "tags": [
+        "Sarguzasht",
+        "Fantastika",
+        "Sport",
+        "Komediya"
+      ],
+      "poster": "AgACAgIAAxkBAAPWatPcLpDzWWNQ8hBQ2nSQXKr_FrIAAqkgaxtdp6BKf-iHiuljx7oBAAMCAAN5AAM9BA",
+      "trailer": null,
+      "parts": [
+        {
+          "id": "BAACAgIAAxkBAAN2atPYrsW2hKvZ70dMZxE_sGhiE0cAAqeqAAJdp6BKFkFHSGEcUsA9BA",
+          "type": "video"
+        }
+      ],
+      "views": 0,
+      "likes": [],
+      "dislikes": [],
+      "added": "2026-10-17T20:35:16.544Z"
+    }
+  },
+  "users": {
+    "7823081550": {
+      "name": "",
+      "lang": "uz",
+      "joined": "2026-10-17T19:27:30.366Z",
+      "blocked": false,
+      "banned": false,
+      "favs": []
+    },
+    "8050010132": {
+      "name": "Kozimov",
+      "lang": "uz",
+      "joined": "2026-10-17T19:28:27.634Z",
+      "blocked": false,
+      "banned": false,
+      "favs": []
+    }
+  },
+  "lastCode": 5,
+  "requests": [
+    {
+      "id": 1,
+      "userId": 8050010132,
+      "name": "Kozimov",
+      "text": "Po'lat qushlar 2-fasl",
+      "date": "2026-10-17T20:23:56.442Z",
+      "done": true
+    }
+  ],
+  "lastRequestId": 1,
+  "channels": [
+    "@multikla_uzbekcha",
+    "@anique_dubbing"
+  ],
+  "categories": [
+    "Po'lat Qushlar"
+  ],
+  "admins": [],
+  "queries": {},
+  "missed": {
+    "1": 1,
+    "2": 1,
+    "3": 1
+  },
+  "stats": {
+    "daily": {
+      "2026-10-18": {
+        "newUsers": 1,
+        "views": 9,
+        "searches": 3
+      }
+    }
+  },
+  "settings": {
+    "protect": false,
+    "autopost": true
+  }
+}
